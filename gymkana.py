@@ -97,7 +97,6 @@ def paso1 (identificador, puerto_local, host, puerto):
 
 
 # FUNCION RESOLVER EXPRESION
-# FUNCION MEJORABLE - LA MEJORARE AL TERMINAR EL ULTIMO PASO
 def resolver (cadena):
 
     parentesis_a = 0
